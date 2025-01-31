@@ -1,0 +1,7 @@
+Cara Penggunaan :
+
+1. Login menggunakan Admin Login, isian bebas 
+2. Akan muncul riwayat akun yang telah login beserta password
+3. Data bisa dihapus dan dihapus semua
+
+NB : File FXML telah dilakukan perubahan setelah expo karena itu tidak bisa buka User login
